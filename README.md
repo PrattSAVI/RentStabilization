@@ -9,3 +9,6 @@ Repo has 3 codes:
 2. Read PDF returns
 3. Compare the different years. This has simple functions for scrape and read together, if you want to seach for units one by one this is more helpful
 
+Update:
+Scraping 2020 and 2021 tax bills, we have combined all available records (07-14, 18, 20, 21). There are many records missing and reappearing over the years so, we forward filled missing records, as long as they had a continuation. Updated data set is in the data folder 
+
